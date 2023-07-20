@@ -11,7 +11,7 @@ type AllPostsData = {
 }[]
 
 // Change this url to change the image!
-const imageUrl = 'https://unsplash.com/photos/P_nM4HIeX8Y';
+const imageUrl = 'https://pbs.twimg.com/media/DVrqlTTWsAAdU8S.jpg';
 const imageKey = imageUrl.split('/').at(-1);
 
 export default function Home() {
@@ -21,7 +21,7 @@ export default function Home() {
       <div>
         <section>
           <p className={'prose'}>
-         My name is Kanye and this is Runaway      
+         My name is Big Guy
           </p>
           <div className={'my-4'}>
             <i>
