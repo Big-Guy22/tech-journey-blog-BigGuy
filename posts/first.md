@@ -1,7 +1,7 @@
 ---
 title: 'I Love You Like Kanye Loves Kanye'
 date: '2023-07-20'
-
+---
 I miss the old Kanye, straight from the 'Go Kanye
 Chop up the soul Kanye, set on his goals Kanye
 I hate the new Kanye, the bad mood Kanye
