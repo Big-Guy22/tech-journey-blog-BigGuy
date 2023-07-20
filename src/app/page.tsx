@@ -27,7 +27,7 @@ const Zaiver = `"I Feel Like I'm To Busy Writing History To Read It"-KanYe West`
             <i>
               Check out the Kanye{' '}
               <button className={'btn btn-primary'}>
-                <Link href={'https://media.tenor.com/HsNBVVKfYSsAAAAC/kanye-kanye-west.gif'}>
+                <Link href={'https://youtu.be/Jg5wkZ-dJXA'}>
                   <span className={'text-primary-content'}>
                     here
                   </span>
