@@ -16,12 +16,12 @@ const imageKey = imageUrl.split('/').at(-1);
 
 export default function Home() {
   const allPostsData: AllPostsData = getSortedPostsData()
-
+const Zaiver = `"I Feel Like I'm To Busy Writing History To Read It"-KanYe West`
   return (
       <div>
         <section>
           <p className={'prose'}>
-         "I Feel Like I'm To Busy Writing History To Read It"-KanYe West
+         {Zaiver}
           </p>
           <div className={'my-4'}>
             <i>
