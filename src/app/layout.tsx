@@ -10,7 +10,7 @@ TODO:  Change these things along with:
   - favicon.ico in /public
  */
 const font = Inter({subsets: ['latin']})
-const title = 'Luke\'s Site';
+const title = 'Kanye\'s Site';
 const description = 'This the Tech Journey template site';
 const links = [
   {title: 'Pokemon', href: '/pokemon'},
@@ -27,7 +27,7 @@ export const metadata: Metadata = {
   title,
   description,
   icons: {
-    icon: '/favicon.ico',
+    icon: 'images/Kanye.jpg',
   },
 }
 
