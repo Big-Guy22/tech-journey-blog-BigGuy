@@ -11,7 +11,7 @@ type AllPostsData = {
 }[]
 
 // Change this url to change the image!
-const imageUrl = 'https://pbs.twimg.com/media/DVrqlTTWsAAdU8S.jpg';
+const imageUrl = 'https://unsplash.com/photos/UOGFqFfUD0A';
 const imageKey = imageUrl.split('/').at(-1);
 
 export default function Home() {
@@ -27,7 +27,7 @@ export default function Home() {
             <i>
               Check out the Kanye{' '}
               <button className={'btn btn-primary'}>
-                <Link href={'https://www.google.com/search?q=runaway+movie+kanye&rlz=1CARLLB_enUS1015US1015&oq=runaway+movie+kanye&aqs=chrome.0.0i355i512j46i512j0i22i30l2j0i390i650l4.6261j0j7&sourceid=chrome&ie=UTF-8&safe=active&ssui=on#:~:text=Kanye%20West%20%2D%20Runaway%20(Full%2Dlength%20Film)%20%2D%20YouTube'}>
+                <Link href={'https://media.tenor.com/HsNBVVKfYSsAAAAC/kanye-kanye-west.gif'}>
                   <span className={'text-primary-content'}>
                     here
                   </span>
