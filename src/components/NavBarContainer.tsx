@@ -51,7 +51,7 @@ const NavBarContainer: React.FC<NavBarContainerProps> = ({title, children, links
               <Link href="/"><h1 className={'text-4xl font-semibold'}>{title}</h1></Link>
             </div>
             {/* uncomment me! */}
-            {/*<DarkModeButton/>*/}
+            <DarkModeButton/>
             {links && <div className="flex-none hidden lg:block">
                 <ul className="menu menu-horizontal">
                   {renderLinks()}
