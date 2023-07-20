@@ -21,7 +21,7 @@ export default function Home() {
       <div>
         <section>
           <p className={'prose'}>
-         My name is Big Guy
+         "I Feel Like I'm To Busy Writing History To Read It"-KanYe West
           </p>
           <div className={'my-4'}>
             <i>
